@@ -1,0 +1,6 @@
+{
+  "name": "CropSense AI - Satellite Crop Intelligence System",
+  "description": "AI-based satellite crop intelligence system for precision agricultural monitoring, NDVI health mapping, drought anomalies, and flood disaster assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
